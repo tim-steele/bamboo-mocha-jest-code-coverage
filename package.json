@@ -1,0 +1,24 @@
+{
+  "name": "bamboo-mocha-jest-code-coverage",
+  "version": "1.0.0",
+  "description": "Formats Jest code coverage report for Bamboo's Mocha Test Parser, so Bamboo can consume Jest code coverage reports.",
+  "main": "index.js",
+  "bin": {
+    "bamboo-jest-coverage-parser": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "jest",
+    "code",
+    "coverage",
+    "bamboo",
+    "mocha",
+    "test",
+    "parser"
+  ],
+  "author": "Tim Steele",
+  "license": "MIT"
+}
