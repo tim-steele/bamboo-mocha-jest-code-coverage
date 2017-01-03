@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github"
+    "url": "https://github.com/tim-steele/bamboo-mocha-jest-code-coverage.git"
   },
   "keywords": [
     "jest",
